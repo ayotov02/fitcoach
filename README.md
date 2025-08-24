@@ -1,5 +1,12 @@
 # FitCoach - AI-Powered Fitness Coaching Platform
 
+[![CI](https://github.com/ayotov02/fitcoach/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ayotov02/fitcoach/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
+[![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)](https://nextjs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)](https://www.typescriptlang.org)
+[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3-38B2AC?logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+[![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-Components-000000)](https://ui.shadcn.com)
+
 A modern, responsive fitness coaching platform built with Next.js 14, TypeScript, and Tailwind CSS.
 
 ## 🚀 Features
